@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 88bb90c6932d8604fa0f4fd8791f1c15
+timeCreated: 1528943965
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: ',Black_'
+    2100002: GRAY SEMIGLOSS
+    2100004: ',Black 1'
+    2100006: ',Black 2'
+    2100008: Standard_8
+    2100010: CHROME PEARL2
+    2100012: ',Black 3'
+    2100014: chrome08 210
+    2100016: vray Dispersion_
+    2100018: Aluminium
+    2100020: RED PLASTIC
+    2100022: ',Black 4'
+    2100024: chrome go
+    2100026: _____
+    2100028: Chrome
+    2100030: ',Black 5'
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: cam2
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ',Black 1'
+    second: {fileID: 2100000, guid: 6de1e5f3e29112d47815e3208b897a51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ',Black 2'
+    second: {fileID: 2100000, guid: 382343488e6456f479c8eb7a686696cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ',Black 3'
+    second: {fileID: 2100000, guid: 730327f1b54666d4183487ac529a89bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ',Black 4'
+    second: {fileID: 2100000, guid: eab1bf0400f45684c9146e21eafa5dbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ',Black 5'
+    second: {fileID: 2100000, guid: 2cfd2f9fae0406a438f3a7fd87648ad7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ',Black_'
+    second: {fileID: 2100000, guid: afbcf090e3b826543bad9742e61acb1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Aluminium
+    second: {fileID: 2100000, guid: 0bdcd94e5caf77f48ab322c4f46a93e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CHROME PEARL2
+    second: {fileID: 2100000, guid: 526bfab1009dd5e4da2584f187f99db0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chrome
+    second: {fileID: 2100000, guid: d38d3ada25012284f9a2dc7d35d7b91e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRAY SEMIGLOSS
+    second: {fileID: 2100000, guid: 8e512d651d853374fb6d472a3174a3bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RED PLASTIC
+    second: {fileID: 2100000, guid: df0d24fe58d5e86499996204236abf60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Standard_8
+    second: {fileID: 2100000, guid: 3547655fdbca01a47b950ca5f6d17290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____
+    second: {fileID: 2100000, guid: 0ee9bc4af2d90de4cbca2a3601b8af43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome go
+    second: {fileID: 2100000, guid: a423bf545dfbef2428a00c29e08d7b41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: chrome08 210
+    second: {fileID: 2100000, guid: 2565c97eee0e64e4bb88a71923b8d17e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vray Dispersion_
+    second: {fileID: 2100000, guid: f16ba2daa4ad4464bba1b6413102a1d3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 6e4152869639dfa4a90331d60801565f
+timeCreated: 1528752596
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: 05 Custo10
+    100002: 05 Custo11
+    100004: 05 Custo12
+    100006: 05 Custo13
+    100008: 05 Custo14
+    100010: 05 Custo15
+    100012: 05 Custo16
+    100014: 05 Custo17
+    100016: 05 Custo18
+    100018: 05 Custo19
+    100020: 05 Custo20
+    100022: 05 Custo21
+    100024: 05 Custo22
+    100026: 05 Custo23
+    100028: 05 Custo24
+    100030: '05 Custom '
+    100032: 05 Custom0
+    100034: 05 Custom1
+    100036: 05 Custom2
+    100038: 05 Custom3
+    100040: 05 Custom4
+    100042: 05 Custom5
+    100044: 05 Custom6
+    100046: 05 Custom7
+    100048: 05 Custom8
+    100050: 05 Custom9
+    100052: //RootNode
+    100054: Camera001
+    100056: Camera001.target
+    400000: 05 Custo10
+    400002: 05 Custo11
+    400004: 05 Custo12
+    400006: 05 Custo13
+    400008: 05 Custo14
+    400010: 05 Custo15
+    400012: 05 Custo16
+    400014: 05 Custo17
+    400016: 05 Custo18
+    400018: 05 Custo19
+    400020: 05 Custo20
+    400022: 05 Custo21
+    400024: 05 Custo22
+    400026: 05 Custo23
+    400028: 05 Custo24
+    400030: '05 Custom '
+    400032: 05 Custom0
+    400034: 05 Custom1
+    400036: 05 Custom2
+    400038: 05 Custom3
+    400040: 05 Custom4
+    400042: 05 Custom5
+    400044: 05 Custom6
+    400046: 05 Custom7
+    400048: 05 Custom8
+    400050: 05 Custom9
+    400052: //RootNode
+    400054: Camera001
+    400056: Camera001.target
+    2100000: Cover 1
+    2100002: Cover 2
+    2100004: Cover 3
+    2100006: Cover 4_
+    2100008: Cover 5
+    2100010: Cover 6
+    2100012: Cover 7
+    2100014: Cover 8
+    2100016: Cover 9
+    2100018: Cover 10
+    2100020: Cover 11
+    2100022: Cover 12
+    2100024: Cover 13
+    2100026: Cover 14
+    2100028: Cover 15
+    2100030: Cover 16
+    2100032: Cover 17
+    2100034: Cover 18
+    2100036: Cover 19
+    2100038: Cover 20
+    2100040: Cover 21
+    2100042: Cover 22
+    2100044: Cover 23
+    2100046: Cover 24
+    2100048: Cover 25
+    2100050: pages 1
+    2100052: pages 2
+    2300000: 05 Custo10
+    2300002: 05 Custo11
+    2300004: 05 Custo12
+    2300006: 05 Custo13
+    2300008: 05 Custo14
+    2300010: 05 Custo15
+    2300012: 05 Custo16
+    2300014: 05 Custo17
+    2300016: 05 Custo18
+    2300018: 05 Custo19
+    2300020: 05 Custo20
+    2300022: 05 Custo21
+    2300024: 05 Custo22
+    2300026: 05 Custo23
+    2300028: 05 Custo24
+    2300030: 05 Custom0
+    2300032: 05 Custom1
+    2300034: 05 Custom2
+    2300036: 05 Custom3
+    2300038: 05 Custom4
+    2300040: 05 Custom5
+    2300042: 05 Custom6
+    2300044: 05 Custom7
+    2300046: 05 Custom8
+    2300048: 05 Custom9
+    3300000: 05 Custo10
+    3300002: 05 Custo11
+    3300004: 05 Custo12
+    3300006: 05 Custo13
+    3300008: 05 Custo14
+    3300010: 05 Custo15
+    3300012: 05 Custo16
+    3300014: 05 Custo17
+    3300016: 05 Custo18
+    3300018: 05 Custo19
+    3300020: 05 Custo20
+    3300022: 05 Custo21
+    3300024: 05 Custo22
+    3300026: 05 Custo23
+    3300028: 05 Custo24
+    3300030: 05 Custom0
+    3300032: 05 Custom1
+    3300034: 05 Custom2
+    3300036: 05 Custom3
+    3300038: 05 Custom4
+    3300040: 05 Custom5
+    3300042: 05 Custom6
+    3300044: 05 Custom7
+    3300046: 05 Custom8
+    3300048: 05 Custom9
+    4300000: 05 Custom0
+    4300002: 05 Custom1
+    4300004: 05 Custom2
+    4300006: 05 Custom3
+    4300008: 05 Custom4
+    4300010: 05 Custom5
+    4300012: 05 Custom6
+    4300014: 05 Custom7
+    4300016: 05 Custom8
+    4300018: 05 Custom9
+    4300020: 05 Custo10
+    4300022: 05 Custo11
+    4300024: 05 Custo12
+    4300026: 05 Custo13
+    4300028: 05 Custo14
+    4300030: 05 Custo15
+    4300032: 05 Custo16
+    4300034: 05 Custo17
+    4300036: 05 Custo18
+    4300038: 05 Custo19
+    4300040: 05 Custo20
+    4300042: 05 Custo21
+    4300044: 05 Custo22
+    4300046: 05 Custo23
+    4300048: 05 Custo24
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 1
+    second: {fileID: 2100000, guid: 98af70b2832ed0d418e41c898b4d34ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 10
+    second: {fileID: 2100000, guid: 4872acf6fad75ea44a655cf964d331be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 11
+    second: {fileID: 2100000, guid: 8122263d2fbc0c041ba3eb8f3de6bd32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 12
+    second: {fileID: 2100000, guid: e3758cf2aaed7474a844067002c28a48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 13
+    second: {fileID: 2100000, guid: 0506cf51991862c44a0f6c83786d7783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 14
+    second: {fileID: 2100000, guid: 45bb99bb182698148b066c5e45d18c51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 15
+    second: {fileID: 2100000, guid: 0c3c6388eb3b29542a05a6e3687e6806, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 16
+    second: {fileID: 2100000, guid: 56918c88af9bbb145aba8be852fc695f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 17
+    second: {fileID: 2100000, guid: 5315f49138bb68c48a42cbe6f30d1920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 18
+    second: {fileID: 2100000, guid: 684a96d182bb891409c8ed2f604834e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 19
+    second: {fileID: 2100000, guid: b785bca7fb557914c8e3ad4ea8c9feb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 2
+    second: {fileID: 2100000, guid: 9876022ad6b934a42be0c708001d1b9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 20
+    second: {fileID: 2100000, guid: 0dab519397b4bf84c8b3d75be34ddcc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 21
+    second: {fileID: 2100000, guid: 65dfffb02b87b7b45937829f35362f12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 22
+    second: {fileID: 2100000, guid: 69c482b9ac492bc4991bd72ea0912291, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 23
+    second: {fileID: 2100000, guid: 3ef201c69c7719a46b07f416fd113d6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 24
+    second: {fileID: 2100000, guid: 1085f8418397d8943869316a476e1a5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 25
+    second: {fileID: 2100000, guid: 09060453bd9e89542b541d415ec5e082, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 3
+    second: {fileID: 2100000, guid: ce103684f577cd14aa7bca8792007090, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 4_
+    second: {fileID: 2100000, guid: 4841b445e4e976a4a901f0b2720fb8a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 5
+    second: {fileID: 2100000, guid: db8c5927e79f4674c86511828df0df0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 6
+    second: {fileID: 2100000, guid: 8a42e49ddbd5b1f479c7ee992bba2161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 7
+    second: {fileID: 2100000, guid: 88dd76a4910855c4ba13604d9ea47d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 8
+    second: {fileID: 2100000, guid: 79cfa3388eaa2dd4eb69c6a93b836175, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cover 9
+    second: {fileID: 2100000, guid: 3bb62c1a396b11f47ad6231ba54ae632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pages 1
+    second: {fileID: 2100000, guid: 2f5c4c01eb23a58429f092ae173df785, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pages 2
+    second: {fileID: 2100000, guid: 00e64dda8eeb0b541828cfdc936f1517, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

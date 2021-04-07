@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 68f2c88f919a08749a7037130a53378f
+timeCreated: 1528944799
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Box004
+    100004: Cylinder00
+    100006: Helix003
+    100008: Line003
+    100010: Line004
+    100012: Line01
+    100014: Object001
+    100016: Object002
+    100018: Object003
+    100020: Object004
+    100022: Object005
+    100024: Object007
+    100026: Plane03
+    100028: Rectangle0
+    100030: //RootNode
+    100032: Sphere001
+    100034: sub01
+    100036: sub011
+    100038: sub02
+    100040: sub021
+    100042: sub03
+    100044: sub031
+    100046: sub04
+    100048: sub041
+    100050: sub05
+    100052: sub051
+    100054: sub06
+    100056: sub07
+    400000: Box001
+    400002: Box004
+    400004: Cylinder00
+    400006: Helix003
+    400008: Line003
+    400010: Line004
+    400012: Line01
+    400014: Object001
+    400016: Object002
+    400018: Object003
+    400020: Object004
+    400022: Object005
+    400024: Object007
+    400026: Plane03
+    400028: Rectangle0
+    400030: //RootNode
+    400032: Sphere001
+    400034: sub01
+    400036: sub011
+    400038: sub02
+    400040: sub021
+    400042: sub03
+    400044: sub031
+    400046: sub04
+    400048: sub041
+    400050: sub05
+    400052: sub051
+    400054: sub06
+    400056: sub07
+    2100000: wire_115115115
+    2100002: wire_255255255
+    2100004: Material__5
+    2100006: wire_088177027
+    2300000: Box001
+    2300002: Box004
+    2300004: Cylinder00
+    2300006: Line003
+    2300008: Line004
+    2300010: Line01
+    2300012: Object001
+    2300014: Object002
+    2300016: Object003
+    2300018: Object004
+    2300020: Object005
+    2300022: Plane03
+    2300024: Rectangle0
+    2300026: Sphere001
+    2300028: sub01
+    2300030: sub011
+    2300032: sub02
+    2300034: sub021
+    2300036: sub03
+    2300038: sub031
+    2300040: sub04
+    2300042: sub041
+    2300044: sub05
+    2300046: sub051
+    2300048: sub06
+    2300050: sub07
+    3300000: Box001
+    3300002: Box004
+    3300004: Cylinder00
+    3300006: Line003
+    3300008: Line004
+    3300010: Line01
+    3300012: Object001
+    3300014: Object002
+    3300016: Object003
+    3300018: Object004
+    3300020: Object005
+    3300022: Plane03
+    3300024: Rectangle0
+    3300026: Sphere001
+    3300028: sub01
+    3300030: sub011
+    3300032: sub02
+    3300034: sub021
+    3300036: sub03
+    3300038: sub031
+    3300040: sub04
+    3300042: sub041
+    3300044: sub05
+    3300046: sub051
+    3300048: sub06
+    3300050: sub07
+    4300000: Cylinder00
+    4300002: Line003
+    4300004: Line004
+    4300006: sub01
+    4300008: sub02
+    4300010: sub03
+    4300012: sub04
+    4300014: sub05
+    4300016: sub06
+    4300018: sub07
+    4300020: Plane03
+    4300022: sub011
+    4300024: sub021
+    4300026: sub031
+    4300028: sub041
+    4300030: sub051
+    4300032: Rectangle0
+    4300034: Object001
+    4300036: Object002
+    4300038: Object005
+    4300040: Object004
+    4300042: Box004
+    4300044: Object003
+    4300046: Box001
+    4300048: Sphere001
+    4300050: Line01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__5
+    second: {fileID: 2100000, guid: 78e1a24a75210924fb8d7e5d8d97989d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_088177027
+    second: {fileID: 2100000, guid: f4e9152d8dfe80147bf7b9fa65080542, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_115115115
+    second: {fileID: 2100000, guid: c999ef8fbbfe3034680bfa909956b39b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_255255255
+    second: {fileID: 2100000, guid: c7e9985efecc1134faa1dab16aaa6fcb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

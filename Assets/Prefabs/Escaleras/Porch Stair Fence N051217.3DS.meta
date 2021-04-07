@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: e857fbaff0540034ea1436300bea4c22
+timeCreated: 1528742813
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box2131630
+    100002: Box2131631
+    100004: Box2131632
+    100006: Box2131633
+    100008: Box2131634
+    100010: Box2131636
+    100012: Line178910
+    100014: Line178911
+    100016: Line178912
+    100018: Line178950
+    100020: Line178951
+    100022: Line178952
+    100024: Line178953
+    100026: Line178954
+    100028: Line178955
+    100030: Line178956
+    100032: Line178957
+    100034: Line178958
+    100036: Line178959
+    100038: Plane004
+    100040: //RootNode
+    100042: Shape
+    100044: Shape031
+    100046: Shape033
+    100048: Shape034
+    100050: Shape035
+    100052: Shape036
+    400000: Box2131630
+    400002: Box2131631
+    400004: Box2131632
+    400006: Box2131633
+    400008: Box2131634
+    400010: Box2131636
+    400012: Line178910
+    400014: Line178911
+    400016: Line178912
+    400018: Line178950
+    400020: Line178951
+    400022: Line178952
+    400024: Line178953
+    400026: Line178954
+    400028: Line178955
+    400030: Line178956
+    400032: Line178957
+    400034: Line178958
+    400036: Line178959
+    400038: Plane004
+    400040: //RootNode
+    400042: Shape
+    400044: Shape031
+    400046: Shape033
+    400048: Shape034
+    400050: Shape035
+    400052: Shape036
+    2100000: st wood
+    2100002: st gold
+    2100004: st tile
+    2300000: Box2131630
+    2300002: Box2131631
+    2300004: Box2131632
+    2300006: Box2131633
+    2300008: Box2131634
+    2300010: Box2131636
+    2300012: Line178910
+    2300014: Line178911
+    2300016: Line178912
+    2300018: Line178950
+    2300020: Line178951
+    2300022: Line178952
+    2300024: Line178953
+    2300026: Line178954
+    2300028: Line178955
+    2300030: Line178956
+    2300032: Line178957
+    2300034: Line178958
+    2300036: Line178959
+    2300038: Plane004
+    2300040: Shape
+    2300042: Shape031
+    2300044: Shape033
+    2300046: Shape034
+    2300048: Shape035
+    2300050: Shape036
+    3300000: Box2131630
+    3300002: Box2131631
+    3300004: Box2131632
+    3300006: Box2131633
+    3300008: Box2131634
+    3300010: Box2131636
+    3300012: Line178910
+    3300014: Line178911
+    3300016: Line178912
+    3300018: Line178950
+    3300020: Line178951
+    3300022: Line178952
+    3300024: Line178953
+    3300026: Line178954
+    3300028: Line178955
+    3300030: Line178956
+    3300032: Line178957
+    3300034: Line178958
+    3300036: Line178959
+    3300038: Plane004
+    3300040: Shape
+    3300042: Shape031
+    3300044: Shape033
+    3300046: Shape034
+    3300048: Shape035
+    3300050: Shape036
+    4300000: Plane004
+    4300002: Line178952
+    4300004: Line178950
+    4300006: Line178951
+    4300008: Box2131636
+    4300010: Box2131630
+    4300012: Line178953
+    4300014: Box2131631
+    4300016: Line178954
+    4300018: Line178955
+    4300020: Line178956
+    4300022: Line178957
+    4300024: Line178958
+    4300026: Box2131632
+    4300028: Box2131633
+    4300030: Line178959
+    4300032: Box2131634
+    4300034: Line178910
+    4300036: Line178911
+    4300038: Line178912
+    4300040: Shape033
+    4300042: Shape034
+    4300044: Shape
+    4300046: Shape031
+    4300048: Shape035
+    4300050: Shape036
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st gold
+    second: {fileID: 2100000, guid: a617ce2001c754245ac412de031816d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st tile
+    second: {fileID: 2100000, guid: 2742a9e69ef9a094494556186f2ca266, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st wood
+    second: {fileID: 2100000, guid: 405e32886c8d224419fe5dac3dcaea63, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

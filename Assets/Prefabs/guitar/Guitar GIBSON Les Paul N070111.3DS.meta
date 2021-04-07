@@ -1,0 +1,1709 @@
+fileFormatVersion: 2
+guid: 936d19b348a90f246ac9238d9547b902
+timeCreated: 1528943967
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ____
+    100002: ____ ___10
+    100004: ____ ___10
+    100006: ____ ___11
+    100008: ____ ___11
+    100010: ____ ___12
+    100012: ____ ___12
+    100014: ____ ___13
+    100016: ____ ___13
+    100018: ____ ___14
+    100020: ____ ___14
+    100022: ____ ___15
+    100024: ____ ___15
+    100026: ____ ___16
+    100028: ____ ___16
+    100030: ____ ___17
+    100032: ____ ___17
+    100034: ____ ___18
+    100036: ____ ___18
+    100038: ____ ___19
+    100040: ____ ___19
+    100042: ____ ___20
+    100044: ____ ___20
+    100046: ____ ___21
+    100048: ____ ___22
+    100050: ____ ___23
+    100052: ____ ___24
+    100054: ____ ___25
+    100056: ____ ____0
+    100058: ____ ____0
+    100060: ____ ____1
+    100062: ____ ____1
+    100064: ____ ____2
+    100066: ____ ____2
+    100068: ____ ____3
+    100070: ____ ____3
+    100072: ____ ____4
+    100074: ____ ____4
+    100076: ____ ____5
+    100078: ____ ____5
+    100080: ____ ____6
+    100082: ____ ____6
+    100084: ____ ____7
+    100086: ____ ____7
+    100088: ____ ____8
+    100090: ____ ____8
+    100092: ____ ____9
+    100094: ____ ____9
+    100096: ____ _____
+    100098: ____ _____
+    100100: ____01
+    100102: _____
+    100104: _____
+    100106: _____ __ 0
+    100108: _____ __ 1
+    100110: _____ __ 2
+    100112: _____ __ 3
+    100114: _____ __ 4
+    100116: _____ __ _
+    100118: _____01
+    100120: _____02
+    100122: _____03
+    100124: _____1
+    100126: _____1
+    100128: _____2
+    100130: _____2
+    100132: _____3
+    100134: _____4
+    100136: _____5
+    100138: _____6
+    100140: ______
+    100142: ______ ___
+    100144: ______ ___
+    100146: ______-___
+    100148: ______01
+    100150: ______1
+    100152: ______2
+    100154: ______3
+    100156: ______4
+    100158: ______5
+    100160: ______6
+    100162: _______ __
+    100164: _______ __
+    100166: _______ St
+    100168: '_______: _'
+    100170: '_______: G'
+    100172: '_______: L'
+    100174: '_______: S'
+    100176: ________ _
+    100178: ________ _
+    100180: ________01
+    100182: ________02
+    100184: '_________ '
+    100186: '_________ '
+    100188: _________0
+    100190: _________0
+    100192: _________1
+    100194: _________2
+    100196: __________
+    100198: Circle01
+    100200: Circle02
+    100202: Circle03
+    100204: Circle04
+    100206: Circle05
+    100208: Circle06
+    100210: Circle07
+    100212: Circle08
+    100214: Circle09
+    100216: Circle10
+    100218: Circle104
+    100220: Circle107
+    100222: Circle11
+    100224: Circle112
+    100226: Circle113
+    100228: Circle114
+    100230: Circle115
+    100232: Circle116
+    100234: Circle117
+    100236: Circle118
+    100238: Circle119
+    100240: Circle12
+    100242: Circle120
+    100244: Circle121
+    100246: Circle122
+    100248: Circle13
+    100250: Circle14
+    100252: Circle15
+    100254: Circle16
+    100256: Circle17
+    100258: Circle18
+    100260: Circle19
+    100262: Circle20
+    100264: Circle21
+    100266: Circle22
+    100268: Circle23
+    100270: Circle24
+    100272: Circle25
+    100274: Circle26
+    100276: Circle27
+    100278: Circle28
+    100280: Circle29
+    100282: Circle30
+    100284: Circle31
+    100286: Circle32
+    100288: Circle33
+    100290: Circle35
+    100292: Circle36
+    100294: Circle38
+    100296: Circle40
+    100298: Circle41
+    100300: Circle42
+    100302: Circle43
+    100304: Circle44
+    100306: Circle45
+    100308: Circle46
+    100310: Circle47
+    100312: Circle48
+    100314: Circle49
+    100316: Circle50
+    100318: Circle51
+    100320: Circle52
+    100322: Circle53
+    100324: Circle54
+    100326: Circle55
+    100328: Circle56
+    100330: Circle57
+    100332: Circle58
+    100334: Circle59
+    100336: Circle60
+    100338: Circle61
+    100340: Circle62
+    100342: Circle63
+    100344: Circle64
+    100346: Circle71
+    100348: Circle72
+    100350: Circle73
+    100352: Circle74
+    100354: Group02
+    100356: //RootNode
+    100358: Line01
+    100360: Line02
+    100362: Line07
+    100364: Object
+    100366: Object05
+    100368: Object06
+    100370: Object07
+    100372: Object08
+    100374: Object09
+    100376: Object10
+    100378: Object11
+    100380: Object12
+    100382: Object13
+    100384: Object14
+    100386: Object15
+    100388: Object16
+    100390: Object17
+    100392: Rectangl10
+    100394: Rectangl11
+    100396: Rectangl12
+    100398: Rectangl13
+    100400: Rectangl14
+    100402: Rectangl15
+    100404: Rectangl16
+    100406: Rectangl17
+    100408: Rectangl18
+    100410: Rectangl19
+    100412: Rectangl20
+    100414: Rectangl21
+    100416: Rectangl22
+    100418: Rectangl23
+    100420: Rectangl24
+    100422: Rectangl25
+    100424: Rectangl26
+    100426: Rectangl27
+    100428: Rectangl28
+    100430: Rectangl29
+    100432: Rectangl30
+    100434: Rectangl31
+    100436: Rectangl32
+    100438: Rectangl33
+    100440: Rectangl34
+    100442: Rectangl35
+    100444: Rectangl36
+    100446: Rectangl37
+    100448: Rectangl38
+    100450: Rectangl39
+    100452: Rectangl40
+    100454: Rectangl41
+    100456: Rectangl42
+    100458: Rectangl43
+    100460: Rectangl44
+    100462: Rectangl45
+    100464: Rectangl46
+    100466: Rectangl47
+    100468: Rectangl48
+    100470: Rectangl49
+    100472: Rectangl50
+    100474: Rectangl51
+    100476: Rectangl52
+    100478: Rectangl53
+    100480: Rectangl54
+    100482: Rectangl55
+    100484: Rectangl56
+    100486: Rectangl57
+    100488: Rectangl58
+    100490: Rectangl59
+    100492: Rectangl60
+    100494: Rectangl61
+    100496: Rectangl62
+    100498: Rectangl63
+    100500: Rectangl64
+    100502: Rectangl65
+    100504: Rectangl66
+    100506: Rectangl67
+    100508: Rectangl68
+    100510: Rectangl69
+    100512: Rectangl70
+    100514: Rectangl71
+    100516: Rectangl72
+    100518: Rectangl73
+    100520: Rectangl74
+    100522: Rectangl75
+    100524: Rectangl76
+    100526: Rectangl77
+    100528: Rectangl78
+    100530: Rectangl79
+    100532: Rectangl80
+    100534: Rectangl81
+    100536: Rectangl82
+    100538: Rectangl83
+    100540: Rectangl84
+    100542: Rectangl85
+    100544: Rectangl86
+    100546: Rectangl87
+    100548: Rectangl88
+    100550: Rectangl89
+    100552: Rectangl90
+    100554: Rectangl91
+    100556: Rectangl92
+    100558: Rectangl93
+    100560: Rectangl94
+    100562: Rectangl95
+    100564: Rectangle0
+    100566: Rectangle1
+    100568: Rectangle2
+    100570: Rectangle3
+    100572: Rectangle4
+    100574: Rectangle5
+    100576: Rectangle6
+    100578: Rectangle7
+    100580: Rectangle8
+    100582: Rectangle9
+    100584: RHYTHM TRE
+    100586: Sphere01
+    100588: Sphere02
+    100590: Sphere03
+    100592: Sphere04
+    100594: Sphere05
+    100596: Sphere06
+    100598: Sphere12
+    100600: Sphere13
+    100602: Sphere14
+    100604: Sphere15
+    100606: Sphere16
+    100608: Sphere17
+    100610: Sphere18
+    100612: Text01
+    100614: Text02
+    100616: Text03
+    100618: Text04
+    100620: Text05
+    100622: Text06
+    100624: Text07
+    100626: Text08
+    100628: Text09
+    100630: Text10
+    100632: Text11
+    100634: Text12
+    100636: Text13
+    100638: Text14
+    100640: Text15
+    100642: Text16
+    100644: Text17
+    100646: Text18
+    100648: Text19
+    100650: Text20
+    100652: Text21
+    100654: Text22
+    100656: Text23
+    100658: Text24
+    100660: Text25
+    100662: Text26
+    100664: Text27
+    100666: Text28
+    100668: Text29
+    100670: Text30
+    100672: Text31
+    100674: Text32
+    100676: Text33
+    100678: Text34
+    100680: Text35
+    100682: Text36
+    100684: Text37
+    100686: Text38
+    100688: Text39
+    100690: Text40
+    100692: Text41
+    100694: Text42
+    100696: Text43
+    100698: Text44
+    100700: Text45
+    100702: Text46
+    400000: ____
+    400002: ____ ___10
+    400004: ____ ___10
+    400006: ____ ___11
+    400008: ____ ___11
+    400010: ____ ___12
+    400012: ____ ___12
+    400014: ____ ___13
+    400016: ____ ___13
+    400018: ____ ___14
+    400020: ____ ___14
+    400022: ____ ___15
+    400024: ____ ___15
+    400026: ____ ___16
+    400028: ____ ___16
+    400030: ____ ___17
+    400032: ____ ___17
+    400034: ____ ___18
+    400036: ____ ___18
+    400038: ____ ___19
+    400040: ____ ___19
+    400042: ____ ___20
+    400044: ____ ___20
+    400046: ____ ___21
+    400048: ____ ___22
+    400050: ____ ___23
+    400052: ____ ___24
+    400054: ____ ___25
+    400056: ____ ____0
+    400058: ____ ____0
+    400060: ____ ____1
+    400062: ____ ____1
+    400064: ____ ____2
+    400066: ____ ____2
+    400068: ____ ____3
+    400070: ____ ____3
+    400072: ____ ____4
+    400074: ____ ____4
+    400076: ____ ____5
+    400078: ____ ____5
+    400080: ____ ____6
+    400082: ____ ____6
+    400084: ____ ____7
+    400086: ____ ____7
+    400088: ____ ____8
+    400090: ____ ____8
+    400092: ____ ____9
+    400094: ____ ____9
+    400096: ____ _____
+    400098: ____ _____
+    400100: ____01
+    400102: _____
+    400104: _____
+    400106: _____ __ 0
+    400108: _____ __ 1
+    400110: _____ __ 2
+    400112: _____ __ 3
+    400114: _____ __ 4
+    400116: _____ __ _
+    400118: _____01
+    400120: _____02
+    400122: _____03
+    400124: _____1
+    400126: _____1
+    400128: _____2
+    400130: _____2
+    400132: _____3
+    400134: _____4
+    400136: _____5
+    400138: _____6
+    400140: ______
+    400142: ______ ___
+    400144: ______ ___
+    400146: ______-___
+    400148: ______01
+    400150: ______1
+    400152: ______2
+    400154: ______3
+    400156: ______4
+    400158: ______5
+    400160: ______6
+    400162: _______ __
+    400164: _______ __
+    400166: _______ St
+    400168: '_______: _'
+    400170: '_______: G'
+    400172: '_______: L'
+    400174: '_______: S'
+    400176: ________ _
+    400178: ________ _
+    400180: ________01
+    400182: ________02
+    400184: '_________ '
+    400186: '_________ '
+    400188: _________0
+    400190: _________0
+    400192: _________1
+    400194: _________2
+    400196: __________
+    400198: Circle01
+    400200: Circle02
+    400202: Circle03
+    400204: Circle04
+    400206: Circle05
+    400208: Circle06
+    400210: Circle07
+    400212: Circle08
+    400214: Circle09
+    400216: Circle10
+    400218: Circle104
+    400220: Circle107
+    400222: Circle11
+    400224: Circle112
+    400226: Circle113
+    400228: Circle114
+    400230: Circle115
+    400232: Circle116
+    400234: Circle117
+    400236: Circle118
+    400238: Circle119
+    400240: Circle12
+    400242: Circle120
+    400244: Circle121
+    400246: Circle122
+    400248: Circle13
+    400250: Circle14
+    400252: Circle15
+    400254: Circle16
+    400256: Circle17
+    400258: Circle18
+    400260: Circle19
+    400262: Circle20
+    400264: Circle21
+    400266: Circle22
+    400268: Circle23
+    400270: Circle24
+    400272: Circle25
+    400274: Circle26
+    400276: Circle27
+    400278: Circle28
+    400280: Circle29
+    400282: Circle30
+    400284: Circle31
+    400286: Circle32
+    400288: Circle33
+    400290: Circle35
+    400292: Circle36
+    400294: Circle38
+    400296: Circle40
+    400298: Circle41
+    400300: Circle42
+    400302: Circle43
+    400304: Circle44
+    400306: Circle45
+    400308: Circle46
+    400310: Circle47
+    400312: Circle48
+    400314: Circle49
+    400316: Circle50
+    400318: Circle51
+    400320: Circle52
+    400322: Circle53
+    400324: Circle54
+    400326: Circle55
+    400328: Circle56
+    400330: Circle57
+    400332: Circle58
+    400334: Circle59
+    400336: Circle60
+    400338: Circle61
+    400340: Circle62
+    400342: Circle63
+    400344: Circle64
+    400346: Circle71
+    400348: Circle72
+    400350: Circle73
+    400352: Circle74
+    400354: Group02
+    400356: //RootNode
+    400358: Line01
+    400360: Line02
+    400362: Line07
+    400364: Object
+    400366: Object05
+    400368: Object06
+    400370: Object07
+    400372: Object08
+    400374: Object09
+    400376: Object10
+    400378: Object11
+    400380: Object12
+    400382: Object13
+    400384: Object14
+    400386: Object15
+    400388: Object16
+    400390: Object17
+    400392: Rectangl10
+    400394: Rectangl11
+    400396: Rectangl12
+    400398: Rectangl13
+    400400: Rectangl14
+    400402: Rectangl15
+    400404: Rectangl16
+    400406: Rectangl17
+    400408: Rectangl18
+    400410: Rectangl19
+    400412: Rectangl20
+    400414: Rectangl21
+    400416: Rectangl22
+    400418: Rectangl23
+    400420: Rectangl24
+    400422: Rectangl25
+    400424: Rectangl26
+    400426: Rectangl27
+    400428: Rectangl28
+    400430: Rectangl29
+    400432: Rectangl30
+    400434: Rectangl31
+    400436: Rectangl32
+    400438: Rectangl33
+    400440: Rectangl34
+    400442: Rectangl35
+    400444: Rectangl36
+    400446: Rectangl37
+    400448: Rectangl38
+    400450: Rectangl39
+    400452: Rectangl40
+    400454: Rectangl41
+    400456: Rectangl42
+    400458: Rectangl43
+    400460: Rectangl44
+    400462: Rectangl45
+    400464: Rectangl46
+    400466: Rectangl47
+    400468: Rectangl48
+    400470: Rectangl49
+    400472: Rectangl50
+    400474: Rectangl51
+    400476: Rectangl52
+    400478: Rectangl53
+    400480: Rectangl54
+    400482: Rectangl55
+    400484: Rectangl56
+    400486: Rectangl57
+    400488: Rectangl58
+    400490: Rectangl59
+    400492: Rectangl60
+    400494: Rectangl61
+    400496: Rectangl62
+    400498: Rectangl63
+    400500: Rectangl64
+    400502: Rectangl65
+    400504: Rectangl66
+    400506: Rectangl67
+    400508: Rectangl68
+    400510: Rectangl69
+    400512: Rectangl70
+    400514: Rectangl71
+    400516: Rectangl72
+    400518: Rectangl73
+    400520: Rectangl74
+    400522: Rectangl75
+    400524: Rectangl76
+    400526: Rectangl77
+    400528: Rectangl78
+    400530: Rectangl79
+    400532: Rectangl80
+    400534: Rectangl81
+    400536: Rectangl82
+    400538: Rectangl83
+    400540: Rectangl84
+    400542: Rectangl85
+    400544: Rectangl86
+    400546: Rectangl87
+    400548: Rectangl88
+    400550: Rectangl89
+    400552: Rectangl90
+    400554: Rectangl91
+    400556: Rectangl92
+    400558: Rectangl93
+    400560: Rectangl94
+    400562: Rectangl95
+    400564: Rectangle0
+    400566: Rectangle1
+    400568: Rectangle2
+    400570: Rectangle3
+    400572: Rectangle4
+    400574: Rectangle5
+    400576: Rectangle6
+    400578: Rectangle7
+    400580: Rectangle8
+    400582: Rectangle9
+    400584: RHYTHM TRE
+    400586: Sphere01
+    400588: Sphere02
+    400590: Sphere03
+    400592: Sphere04
+    400594: Sphere05
+    400596: Sphere06
+    400598: Sphere12
+    400600: Sphere13
+    400602: Sphere14
+    400604: Sphere15
+    400606: Sphere16
+    400608: Sphere17
+    400610: Sphere18
+    400612: Text01
+    400614: Text02
+    400616: Text03
+    400618: Text04
+    400620: Text05
+    400622: Text06
+    400624: Text07
+    400626: Text08
+    400628: Text09
+    400630: Text10
+    400632: Text11
+    400634: Text12
+    400636: Text13
+    400638: Text14
+    400640: Text15
+    400642: Text16
+    400644: Text17
+    400646: Text18
+    400648: Text19
+    400650: Text20
+    400652: Text21
+    400654: Text22
+    400656: Text23
+    400658: Text24
+    400660: Text25
+    400662: Text26
+    400664: Text27
+    400666: Text28
+    400668: Text29
+    400670: Text30
+    400672: Text31
+    400674: Text32
+    400676: Text33
+    400678: Text34
+    400680: Text35
+    400682: Text36
+    400684: Text37
+    400686: Text38
+    400688: Text39
+    400690: Text40
+    400692: Text41
+    400694: Text42
+    400696: Text43
+    400698: Text44
+    400700: Text45
+    400702: Text46
+    2100000: ____
+    2100002: RHYTHM TREBLE
+    2100004: ______-100%
+    2100006: _________ ______
+    2100008: ______-90%
+    2100010: _____-100%
+    2100012: ________
+    2100014: _____
+    2300000: ____ ___10
+    2300002: ____ ___10
+    2300004: ____ ___11
+    2300006: ____ ___11
+    2300008: ____ ___12
+    2300010: ____ ___12
+    2300012: ____ ___13
+    2300014: ____ ___13
+    2300016: ____ ___14
+    2300018: ____ ___14
+    2300020: ____ ___15
+    2300022: ____ ___15
+    2300024: ____ ___16
+    2300026: ____ ___16
+    2300028: ____ ___17
+    2300030: ____ ___17
+    2300032: ____ ___18
+    2300034: ____ ___18
+    2300036: ____ ___19
+    2300038: ____ ___19
+    2300040: ____ ___20
+    2300042: ____ ___20
+    2300044: ____ ___21
+    2300046: ____ ___22
+    2300048: ____ ___23
+    2300050: ____ ___24
+    2300052: ____ ___25
+    2300054: ____ ____0
+    2300056: ____ ____0
+    2300058: ____ ____1
+    2300060: ____ ____1
+    2300062: ____ ____2
+    2300064: ____ ____2
+    2300066: ____ ____3
+    2300068: ____ ____3
+    2300070: ____ ____4
+    2300072: ____ ____4
+    2300074: ____ ____5
+    2300076: ____ ____5
+    2300078: ____ ____6
+    2300080: ____ ____6
+    2300082: ____ ____7
+    2300084: ____ ____7
+    2300086: ____ ____8
+    2300088: ____ ____8
+    2300090: ____ ____9
+    2300092: ____ ____9
+    2300094: ____ _____
+    2300096: ____ _____
+    2300098: ____01
+    2300100: _____1
+    2300102: _____2
+    2300104: _____3
+    2300106: _____4
+    2300108: _____5
+    2300110: _____6
+    2300112: ______
+    2300114: ______01
+    2300116: ______1
+    2300118: ______2
+    2300120: ______3
+    2300122: ______4
+    2300124: ______5
+    2300126: ______6
+    2300128: _______ __
+    2300130: '_______: _'
+    2300132: '_______: G'
+    2300134: '_______: L'
+    2300136: '_______: S'
+    2300138: ________ _
+    2300140: ________ _
+    2300142: '_________ '
+    2300144: _________0
+    2300146: __________
+    2300148: Circle01
+    2300150: Circle02
+    2300152: Circle03
+    2300154: Circle04
+    2300156: Circle05
+    2300158: Circle06
+    2300160: Circle07
+    2300162: Circle08
+    2300164: Circle09
+    2300166: Circle10
+    2300168: Circle104
+    2300170: Circle107
+    2300172: Circle11
+    2300174: Circle112
+    2300176: Circle113
+    2300178: Circle114
+    2300180: Circle115
+    2300182: Circle116
+    2300184: Circle117
+    2300186: Circle118
+    2300188: Circle119
+    2300190: Circle12
+    2300192: Circle120
+    2300194: Circle121
+    2300196: Circle122
+    2300198: Circle13
+    2300200: Circle14
+    2300202: Circle15
+    2300204: Circle16
+    2300206: Circle17
+    2300208: Circle18
+    2300210: Circle19
+    2300212: Circle20
+    2300214: Circle21
+    2300216: Circle22
+    2300218: Circle23
+    2300220: Circle24
+    2300222: Circle25
+    2300224: Circle26
+    2300226: Circle27
+    2300228: Circle28
+    2300230: Circle29
+    2300232: Circle30
+    2300234: Circle31
+    2300236: Circle32
+    2300238: Circle33
+    2300240: Circle35
+    2300242: Circle36
+    2300244: Circle38
+    2300246: Circle40
+    2300248: Circle41
+    2300250: Circle42
+    2300252: Circle43
+    2300254: Circle44
+    2300256: Circle45
+    2300258: Circle46
+    2300260: Circle47
+    2300262: Circle48
+    2300264: Circle49
+    2300266: Circle50
+    2300268: Circle51
+    2300270: Circle52
+    2300272: Circle53
+    2300274: Circle54
+    2300276: Circle55
+    2300278: Circle56
+    2300280: Circle57
+    2300282: Circle58
+    2300284: Circle59
+    2300286: Circle60
+    2300288: Circle61
+    2300290: Circle62
+    2300292: Circle63
+    2300294: Circle64
+    2300296: Circle71
+    2300298: Circle72
+    2300300: Circle73
+    2300302: Circle74
+    2300304: Line01
+    2300306: Line02
+    2300308: Line07
+    2300310: Object
+    2300312: Object05
+    2300314: Object06
+    2300316: Object07
+    2300318: Object08
+    2300320: Object09
+    2300322: Object10
+    2300324: Object11
+    2300326: Object12
+    2300328: Object13
+    2300330: Object14
+    2300332: Object15
+    2300334: Object16
+    2300336: Object17
+    2300338: Rectangl10
+    2300340: Rectangl11
+    2300342: Rectangl12
+    2300344: Rectangl13
+    2300346: Rectangl14
+    2300348: Rectangl15
+    2300350: Rectangl16
+    2300352: Rectangl17
+    2300354: Rectangl18
+    2300356: Rectangl19
+    2300358: Rectangl20
+    2300360: Rectangl21
+    2300362: Rectangl22
+    2300364: Rectangl23
+    2300366: Rectangl24
+    2300368: Rectangl25
+    2300370: Rectangl26
+    2300372: Rectangl27
+    2300374: Rectangl28
+    2300376: Rectangl29
+    2300378: Rectangl30
+    2300380: Rectangl31
+    2300382: Rectangl32
+    2300384: Rectangl33
+    2300386: Rectangl34
+    2300388: Rectangl35
+    2300390: Rectangl36
+    2300392: Rectangl37
+    2300394: Rectangl38
+    2300396: Rectangl39
+    2300398: Rectangl40
+    2300400: Rectangl41
+    2300402: Rectangl42
+    2300404: Rectangl43
+    2300406: Rectangl44
+    2300408: Rectangl45
+    2300410: Rectangl46
+    2300412: Rectangl47
+    2300414: Rectangl48
+    2300416: Rectangl49
+    2300418: Rectangl50
+    2300420: Rectangl51
+    2300422: Rectangl52
+    2300424: Rectangl53
+    2300426: Rectangl54
+    2300428: Rectangl55
+    2300430: Rectangl56
+    2300432: Rectangl57
+    2300434: Rectangl58
+    2300436: Rectangl59
+    2300438: Rectangl60
+    2300440: Rectangl61
+    2300442: Rectangl62
+    2300444: Rectangl63
+    2300446: Rectangl64
+    2300448: Rectangl65
+    2300450: Rectangl66
+    2300452: Rectangl67
+    2300454: Rectangl68
+    2300456: Rectangl69
+    2300458: Rectangl70
+    2300460: Rectangl71
+    2300462: Rectangl72
+    2300464: Rectangl73
+    2300466: Rectangl74
+    2300468: Rectangl75
+    2300470: Rectangl76
+    2300472: Rectangl77
+    2300474: Rectangl78
+    2300476: Rectangl79
+    2300478: Rectangl80
+    2300480: Rectangl81
+    2300482: Rectangl82
+    2300484: Rectangl83
+    2300486: Rectangl84
+    2300488: Rectangl85
+    2300490: Rectangl86
+    2300492: Rectangl87
+    2300494: Rectangl88
+    2300496: Rectangl89
+    2300498: Rectangl90
+    2300500: Rectangl91
+    2300502: Rectangl92
+    2300504: Rectangl93
+    2300506: Rectangl94
+    2300508: Rectangl95
+    2300510: Rectangle0
+    2300512: Rectangle1
+    2300514: Rectangle2
+    2300516: Rectangle3
+    2300518: Rectangle4
+    2300520: Rectangle5
+    2300522: Rectangle6
+    2300524: Rectangle7
+    2300526: Rectangle8
+    2300528: Rectangle9
+    2300530: Sphere01
+    2300532: Sphere02
+    2300534: Sphere03
+    2300536: Sphere04
+    2300538: Sphere05
+    2300540: Sphere06
+    2300542: Sphere12
+    2300544: Sphere13
+    2300546: Sphere14
+    2300548: Sphere15
+    2300550: Sphere16
+    2300552: Sphere17
+    2300554: Sphere18
+    2300556: Text01
+    2300558: Text02
+    2300560: Text03
+    2300562: Text04
+    2300564: Text05
+    2300566: Text06
+    2300568: Text07
+    2300570: Text08
+    2300572: Text09
+    2300574: Text10
+    2300576: Text11
+    2300578: Text12
+    2300580: Text13
+    2300582: Text14
+    2300584: Text15
+    2300586: Text16
+    2300588: Text17
+    2300590: Text18
+    2300592: Text19
+    2300594: Text20
+    2300596: Text21
+    2300598: Text22
+    2300600: Text23
+    2300602: Text24
+    2300604: Text25
+    2300606: Text26
+    2300608: Text27
+    2300610: Text28
+    2300612: Text29
+    2300614: Text30
+    2300616: Text31
+    2300618: Text32
+    2300620: Text33
+    2300622: Text34
+    2300624: Text35
+    2300626: Text36
+    2300628: Text37
+    2300630: Text38
+    2300632: Text39
+    2300634: Text40
+    2300636: Text41
+    2300638: Text42
+    2300640: Text43
+    2300642: Text44
+    2300644: Text45
+    2300646: Text46
+    3300000: ____ ___10
+    3300002: ____ ___10
+    3300004: ____ ___11
+    3300006: ____ ___11
+    3300008: ____ ___12
+    3300010: ____ ___12
+    3300012: ____ ___13
+    3300014: ____ ___13
+    3300016: ____ ___14
+    3300018: ____ ___14
+    3300020: ____ ___15
+    3300022: ____ ___15
+    3300024: ____ ___16
+    3300026: ____ ___16
+    3300028: ____ ___17
+    3300030: ____ ___17
+    3300032: ____ ___18
+    3300034: ____ ___18
+    3300036: ____ ___19
+    3300038: ____ ___19
+    3300040: ____ ___20
+    3300042: ____ ___20
+    3300044: ____ ___21
+    3300046: ____ ___22
+    3300048: ____ ___23
+    3300050: ____ ___24
+    3300052: ____ ___25
+    3300054: ____ ____0
+    3300056: ____ ____0
+    3300058: ____ ____1
+    3300060: ____ ____1
+    3300062: ____ ____2
+    3300064: ____ ____2
+    3300066: ____ ____3
+    3300068: ____ ____3
+    3300070: ____ ____4
+    3300072: ____ ____4
+    3300074: ____ ____5
+    3300076: ____ ____5
+    3300078: ____ ____6
+    3300080: ____ ____6
+    3300082: ____ ____7
+    3300084: ____ ____7
+    3300086: ____ ____8
+    3300088: ____ ____8
+    3300090: ____ ____9
+    3300092: ____ ____9
+    3300094: ____ _____
+    3300096: ____ _____
+    3300098: ____01
+    3300100: _____1
+    3300102: _____2
+    3300104: _____3
+    3300106: _____4
+    3300108: _____5
+    3300110: _____6
+    3300112: ______
+    3300114: ______01
+    3300116: ______1
+    3300118: ______2
+    3300120: ______3
+    3300122: ______4
+    3300124: ______5
+    3300126: ______6
+    3300128: _______ __
+    3300130: '_______: _'
+    3300132: '_______: G'
+    3300134: '_______: L'
+    3300136: '_______: S'
+    3300138: ________ _
+    3300140: ________ _
+    3300142: '_________ '
+    3300144: _________0
+    3300146: __________
+    3300148: Circle01
+    3300150: Circle02
+    3300152: Circle03
+    3300154: Circle04
+    3300156: Circle05
+    3300158: Circle06
+    3300160: Circle07
+    3300162: Circle08
+    3300164: Circle09
+    3300166: Circle10
+    3300168: Circle104
+    3300170: Circle107
+    3300172: Circle11
+    3300174: Circle112
+    3300176: Circle113
+    3300178: Circle114
+    3300180: Circle115
+    3300182: Circle116
+    3300184: Circle117
+    3300186: Circle118
+    3300188: Circle119
+    3300190: Circle12
+    3300192: Circle120
+    3300194: Circle121
+    3300196: Circle122
+    3300198: Circle13
+    3300200: Circle14
+    3300202: Circle15
+    3300204: Circle16
+    3300206: Circle17
+    3300208: Circle18
+    3300210: Circle19
+    3300212: Circle20
+    3300214: Circle21
+    3300216: Circle22
+    3300218: Circle23
+    3300220: Circle24
+    3300222: Circle25
+    3300224: Circle26
+    3300226: Circle27
+    3300228: Circle28
+    3300230: Circle29
+    3300232: Circle30
+    3300234: Circle31
+    3300236: Circle32
+    3300238: Circle33
+    3300240: Circle35
+    3300242: Circle36
+    3300244: Circle38
+    3300246: Circle40
+    3300248: Circle41
+    3300250: Circle42
+    3300252: Circle43
+    3300254: Circle44
+    3300256: Circle45
+    3300258: Circle46
+    3300260: Circle47
+    3300262: Circle48
+    3300264: Circle49
+    3300266: Circle50
+    3300268: Circle51
+    3300270: Circle52
+    3300272: Circle53
+    3300274: Circle54
+    3300276: Circle55
+    3300278: Circle56
+    3300280: Circle57
+    3300282: Circle58
+    3300284: Circle59
+    3300286: Circle60
+    3300288: Circle61
+    3300290: Circle62
+    3300292: Circle63
+    3300294: Circle64
+    3300296: Circle71
+    3300298: Circle72
+    3300300: Circle73
+    3300302: Circle74
+    3300304: Line01
+    3300306: Line02
+    3300308: Line07
+    3300310: Object
+    3300312: Object05
+    3300314: Object06
+    3300316: Object07
+    3300318: Object08
+    3300320: Object09
+    3300322: Object10
+    3300324: Object11
+    3300326: Object12
+    3300328: Object13
+    3300330: Object14
+    3300332: Object15
+    3300334: Object16
+    3300336: Object17
+    3300338: Rectangl10
+    3300340: Rectangl11
+    3300342: Rectangl12
+    3300344: Rectangl13
+    3300346: Rectangl14
+    3300348: Rectangl15
+    3300350: Rectangl16
+    3300352: Rectangl17
+    3300354: Rectangl18
+    3300356: Rectangl19
+    3300358: Rectangl20
+    3300360: Rectangl21
+    3300362: Rectangl22
+    3300364: Rectangl23
+    3300366: Rectangl24
+    3300368: Rectangl25
+    3300370: Rectangl26
+    3300372: Rectangl27
+    3300374: Rectangl28
+    3300376: Rectangl29
+    3300378: Rectangl30
+    3300380: Rectangl31
+    3300382: Rectangl32
+    3300384: Rectangl33
+    3300386: Rectangl34
+    3300388: Rectangl35
+    3300390: Rectangl36
+    3300392: Rectangl37
+    3300394: Rectangl38
+    3300396: Rectangl39
+    3300398: Rectangl40
+    3300400: Rectangl41
+    3300402: Rectangl42
+    3300404: Rectangl43
+    3300406: Rectangl44
+    3300408: Rectangl45
+    3300410: Rectangl46
+    3300412: Rectangl47
+    3300414: Rectangl48
+    3300416: Rectangl49
+    3300418: Rectangl50
+    3300420: Rectangl51
+    3300422: Rectangl52
+    3300424: Rectangl53
+    3300426: Rectangl54
+    3300428: Rectangl55
+    3300430: Rectangl56
+    3300432: Rectangl57
+    3300434: Rectangl58
+    3300436: Rectangl59
+    3300438: Rectangl60
+    3300440: Rectangl61
+    3300442: Rectangl62
+    3300444: Rectangl63
+    3300446: Rectangl64
+    3300448: Rectangl65
+    3300450: Rectangl66
+    3300452: Rectangl67
+    3300454: Rectangl68
+    3300456: Rectangl69
+    3300458: Rectangl70
+    3300460: Rectangl71
+    3300462: Rectangl72
+    3300464: Rectangl73
+    3300466: Rectangl74
+    3300468: Rectangl75
+    3300470: Rectangl76
+    3300472: Rectangl77
+    3300474: Rectangl78
+    3300476: Rectangl79
+    3300478: Rectangl80
+    3300480: Rectangl81
+    3300482: Rectangl82
+    3300484: Rectangl83
+    3300486: Rectangl84
+    3300488: Rectangl85
+    3300490: Rectangl86
+    3300492: Rectangl87
+    3300494: Rectangl88
+    3300496: Rectangl89
+    3300498: Rectangl90
+    3300500: Rectangl91
+    3300502: Rectangl92
+    3300504: Rectangl93
+    3300506: Rectangl94
+    3300508: Rectangl95
+    3300510: Rectangle0
+    3300512: Rectangle1
+    3300514: Rectangle2
+    3300516: Rectangle3
+    3300518: Rectangle4
+    3300520: Rectangle5
+    3300522: Rectangle6
+    3300524: Rectangle7
+    3300526: Rectangle8
+    3300528: Rectangle9
+    3300530: Sphere01
+    3300532: Sphere02
+    3300534: Sphere03
+    3300536: Sphere04
+    3300538: Sphere05
+    3300540: Sphere06
+    3300542: Sphere12
+    3300544: Sphere13
+    3300546: Sphere14
+    3300548: Sphere15
+    3300550: Sphere16
+    3300552: Sphere17
+    3300554: Sphere18
+    3300556: Text01
+    3300558: Text02
+    3300560: Text03
+    3300562: Text04
+    3300564: Text05
+    3300566: Text06
+    3300568: Text07
+    3300570: Text08
+    3300572: Text09
+    3300574: Text10
+    3300576: Text11
+    3300578: Text12
+    3300580: Text13
+    3300582: Text14
+    3300584: Text15
+    3300586: Text16
+    3300588: Text17
+    3300590: Text18
+    3300592: Text19
+    3300594: Text20
+    3300596: Text21
+    3300598: Text22
+    3300600: Text23
+    3300602: Text24
+    3300604: Text25
+    3300606: Text26
+    3300608: Text27
+    3300610: Text28
+    3300612: Text29
+    3300614: Text30
+    3300616: Text31
+    3300618: Text32
+    3300620: Text33
+    3300622: Text34
+    3300624: Text35
+    3300626: Text36
+    3300628: Text37
+    3300630: Text38
+    3300632: Text39
+    3300634: Text40
+    3300636: Text41
+    3300638: Text42
+    3300640: Text43
+    3300642: Text44
+    3300644: Text45
+    3300646: Text46
+    4300000: Rectangle0
+    4300002: ____ _____
+    4300004: ____ _____
+    4300006: Rectangle1
+    4300008: ________ _
+    4300010: _______ __
+    4300012: Circle32
+    4300014: Circle31
+    4300016: Circle30
+    4300018: Circle29
+    4300020: Circle28
+    4300022: Circle27
+    4300024: Circle26
+    4300026: Circle25
+    4300028: Circle24
+    4300030: ______
+    4300032: '_________ '
+    4300034: Rectangle2
+    4300036: ____ ____7
+    4300038: ____ ____3
+    4300040: Rectangle3
+    4300042: Circle35
+    4300044: Circle36
+    4300046: Text01
+    4300048: Text02
+    4300050: Sphere14
+    4300052: Circle114
+    4300054: ____ ____7
+    4300056: ____ ____8
+    4300058: ____ ____9
+    4300060: Circle33
+    4300062: ____ ___10
+    4300064: ____ ___11
+    4300066: ____ ___12
+    4300068: ____ ___13
+    4300070: Rectangle4
+    4300072: '_______: L'
+    4300074: '_______: G'
+    4300076: ____ ___14
+    4300078: ____ ___15
+    4300080: '_______: S'
+    4300082: __________
+    4300084: ________ _
+    4300086: '_______: _'
+    4300088: Circle115
+    4300090: Circle116
+    4300092: Sphere15
+    4300094: Object10
+    4300096: Object11
+    4300098: Text04
+    4300100: Rectangle5
+    4300102: Text03
+    4300104: Rectangle6
+    4300106: Text05
+    4300108: Text06
+    4300110: Text07
+    4300112: Text08
+    4300114: Text09
+    4300116: Text10
+    4300118: Text11
+    4300120: Text12
+    4300122: Text13
+    4300124: Object12
+    4300126: Circle117
+    4300128: Circle118
+    4300130: Sphere16
+    4300132: Object13
+    4300134: Text14
+    4300136: Rectangl26
+    4300138: Text15
+    4300140: Rectangl27
+    4300142: Text16
+    4300144: Text17
+    4300146: Text18
+    4300148: Text19
+    4300150: Text20
+    4300152: Text21
+    4300154: Text22
+    4300156: Text23
+    4300158: Text24
+    4300160: Object14
+    4300162: Circle119
+    4300164: Circle120
+    4300166: Sphere17
+    4300168: Object15
+    4300170: Text25
+    4300172: Rectangl47
+    4300174: Text26
+    4300176: Rectangl48
+    4300178: Text27
+    4300180: Text28
+    4300182: Text29
+    4300184: Text30
+    4300186: Text31
+    4300188: Text32
+    4300190: Text33
+    4300192: Text34
+    4300194: Text35
+    4300196: Circle121
+    4300198: Circle122
+    4300200: Sphere18
+    4300202: Object16
+    4300204: Object17
+    4300206: Text36
+    4300208: Rectangl68
+    4300210: Text37
+    4300212: Rectangl69
+    4300214: Text38
+    4300216: Text39
+    4300218: Text40
+    4300220: Text41
+    4300222: Text42
+    4300224: Text43
+    4300226: Text44
+    4300228: Text45
+    4300230: Text46
+    4300232: ______01
+    4300234: Circle02
+    4300236: ____ ___16
+    4300238: ____ ___17
+    4300240: ____ ___18
+    4300242: ____ ___19
+    4300244: Object09
+    4300246: Object08
+    4300248: Object07
+    4300250: Object06
+    4300252: Object05
+    4300254: Object
+    4300256: Line07
+    4300258: Circle107
+    4300260: Circle71
+    4300262: Sphere12
+    4300264: Circle112
+    4300266: Sphere13
+    4300268: Circle113
+    4300270: Circle74
+    4300272: Rectangl89
+    4300274: Line02
+    4300276: Circle42
+    4300278: Circle73
+    4300280: Circle72
+    4300282: Circle38
+    4300284: Circle104
+    4300286: ____ ___15
+    4300288: ____ ___16
+    4300290: ____ ___17
+    4300292: ____ ___18
+    4300294: ____ ___19
+    4300296: ____ ___20
+    4300298: _____1
+    4300300: Circle53
+    4300302: Circle54
+    4300304: Rectangl90
+    4300306: ____ ___20
+    4300308: Circle55
+    4300310: Circle56
+    4300312: Sphere04
+    4300314: Circle61
+    4300316: Circle62
+    4300318: Rectangl91
+    4300320: ____ ___21
+    4300322: Circle63
+    4300324: Circle64
+    4300326: Sphere06
+    4300328: Circle49
+    4300330: Circle50
+    4300332: Rectangl92
+    4300334: ____ ___22
+    4300336: Circle51
+    4300338: Circle52
+    4300340: Sphere03
+    4300342: Circle57
+    4300344: Circle58
+    4300346: Rectangl93
+    4300348: ____ ___23
+    4300350: Circle59
+    4300352: Circle60
+    4300354: Sphere05
+    4300356: Circle40
+    4300358: Rectangl94
+    4300360: ____ ___24
+    4300362: Circle41
+    4300364: Circle43
+    4300366: Circle44
+    4300368: Sphere01
+    4300370: Circle45
+    4300372: Rectangl95
+    4300374: ____ ___25
+    4300376: Circle46
+    4300378: Circle47
+    4300380: Circle48
+    4300382: Sphere02
+    4300384: Circle01
+    4300386: Circle03
+    4300388: Circle04
+    4300390: Circle05
+    4300392: Circle06
+    4300394: Circle07
+    4300396: Circle08
+    4300398: Circle09
+    4300400: Circle10
+    4300402: Circle11
+    4300404: Circle12
+    4300406: Circle13
+    4300408: Circle14
+    4300410: Circle15
+    4300412: Circle16
+    4300414: Circle17
+    4300416: Circle18
+    4300418: Circle19
+    4300420: Circle20
+    4300422: Circle21
+    4300424: Circle22
+    4300426: Circle23
+    4300428: Line01
+    4300430: ______6
+    4300432: ______5
+    4300434: ______4
+    4300436: ______1
+    4300438: ______3
+    4300440: ______2
+    4300442: ____01
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RHYTHM TREBLE
+    second: {fileID: 2100000, guid: 2f04b5c55f337d64fb57c8cd0dbc482e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ____
+    second: {fileID: 2100000, guid: 64cbb39a4dd23494b9ec15e74cde1b9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____
+    second: {fileID: 2100000, guid: eba763fd0974f6d49b90d371ea35f3cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _____-100%
+    second: {fileID: 2100000, guid: 27e92af97bfd36142ac9b832e4b2219f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ______-100%
+    second: {fileID: 2100000, guid: 3722e804810bd134699402a0795ae5cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ______-90%
+    second: {fileID: 2100000, guid: 869e635d211345b44bc2b106ed4f7676, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ________
+    second: {fileID: 2100000, guid: 3ffd1a673ff8ae349a026737c278711b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _________ ______
+    second: {fileID: 2100000, guid: f0e5f6efba0822e4f849eb6aff56a385, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
